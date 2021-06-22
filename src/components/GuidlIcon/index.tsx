@@ -1,0 +1,14 @@
+import React from 'react';
+import { Image } from 'react-native';
+
+import { styles } from './styles';
+
+export function GuildIcon() {
+    return (
+        <Image
+            source={{ uri: "https://gamerssuffice.com/wp-content/uploads/2019/11/How-to-add-bots-to-discord-500x405.jpg" }}
+            style={styles.image}
+            resizeMode='cover'
+        />
+    )
+}
