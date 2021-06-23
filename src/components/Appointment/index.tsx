@@ -6,7 +6,7 @@ import { styles } from './styles';
 import PlayerSvg from '../../assets/player.svg';
 import CalendarSvg from '../../assets/calendar.svg';
 
-import { GuildIcon } from '../GuidlIcon';
+import { GuildIcon } from '../GuildIcon';
 import { categories } from '../../utils/categories';
 import { theme } from '../../global/styles/theme';
 
