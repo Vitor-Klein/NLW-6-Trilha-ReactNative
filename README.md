@@ -72,3 +72,6 @@ CDN_IMAGE=
 ```
 
 <br />
+
+<p align="center">Feito com ❤️ por <strong>Vitor Klein :wave: </p>
+
